@@ -1,0 +1,11 @@
+Nodemcu ESP8266
+
+Ublox NEO 6M GPS
+
+Jumpers
+
+Arduino nano
+
+Bread board (not necessary)
+
+smoke detection sensor.

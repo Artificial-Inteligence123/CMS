@@ -1,0 +1,5 @@
+CMS studio...
+
+Please note that it will install all python dependencies at it's own.
+
+Thanks, :-)

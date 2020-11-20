@@ -1,0 +1,5 @@
+cd..
+
+cls
+
+Main.bat
